@@ -58,6 +58,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FarhanOSD&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<<<<<<< HEAD
+=======
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithTaskin/CodeWithTaskin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithTaskin/CodeWithTaskin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeWithTaskin/CodeWithTaskin/output/github-snake.svg" />
+</picture>
+>>>>>>> 0f8537df5b288ec161b743172f94753162a30642
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
