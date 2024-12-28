@@ -34,12 +34,16 @@
   
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=105396220" target="_blank" style="display: block" align="center">
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=136696995" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=105396220&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @CodeWithTaskin" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=105396220&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136696995&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @FarhanOSD" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=136696995&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
@@ -58,14 +62,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FarhanOSD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<<<<<<< HEAD
-=======
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithTaskin/CodeWithTaskin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithTaskin/CodeWithTaskin/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/CodeWithTaskin/CodeWithTaskin/output/github-snake.svg" />
 </picture>
->>>>>>> 0f8537df5b288ec161b743172f94753162a30642
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
